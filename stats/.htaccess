@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName " Statistics"
+AuthName "powersteeringkits.net Statistics"
+AuthUserFile /home/n9m9xmk37852/public_html/stats/.statspwd
+Require valid-user
+DirectoryIndex index.html

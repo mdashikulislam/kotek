@@ -1,0 +1,257 @@
+date/time         : 2011-09-16, 15:35:08, 55ms
+computer name     : TEST
+user name         : SYSTEM <admin>
+registered owner  : user
+operating system  : Windows 2003 R2 Service Pack 1 build 3790
+system language   : English
+system up time    : 16 days 2 hours
+program up time   : 52 milliseconds
+processors        : 2x AMD Athlon(tm) 64 X2 Dual Core Processor 4000+
+physical memory   : 1314/1982 MB (free/total)
+free disk space   : (C:) 4.62 GB (D:) 2.32 GB
+display mode      : 1024x768, 32 bit
+process id        : $77c
+allocated memory  : 4.66 MB
+command line      : D:\sendmail\sendmail.exe -t -f sagar@dharne.comsadsfsdfsd
+executable        : sendmail.exe
+exec. date/time   : 2009-08-12 11:56
+compiled with     : Delphi 2006/07
+madExcept version : 3.0h
+callstack crc     : $ae751cd5, $da301c75, $da301c75
+exception number  : 1
+exception class   : EInOutError
+exception message : I/O error 105.
+
+main thread ($ce4):
+004a5f9d +1549 sendmail.exe sendmail       862 +390 initialization
+7c82ee7f +00a7 ntdll.dll                            RtlRaiseStatus
+7c82ed9f +0038 ntdll.dll                            RtlRaiseException
+77e55de4 +0036 kernel32.dll                         RaiseException
+0043bc2a +00fe sendmail.exe IdEMailAddress 332  +34 TIdEMailAddressItem.ConvertAddress
+00405703 +0067 sendmail.exe System         191   +0 @LStrCatN
+0043c090 +0124 sendmail.exe IdEMailAddress 441  +19 TIdEMailAddressItem.GetText
+004166a6 +004e sendmail.exe Classes                 TStrings.IndexOf
+004173a5 +0011 sendmail.exe Classes                 TStringList.IndexOf
+004046ba +0002 sendmail.exe System         191   +0 @ClassDestroy
+004046dd +001d sendmail.exe System         191   +0 @AfterConstruction
+
+modules:
+00400000 sendmail.exe                D:\sendmail
+57b80000 Wship6.dll   5.2.3790.1830  C:\WINDOWS\system32
+61740000 SYSFER.DLL   11.0.2000.1231 C:\WINDOWS\SYSTEM32
+71640000 AcGenral.DLL 5.2.3790.1830  C:\WINDOWS\AppPatch
+71af0000 ShimEng.dll  5.2.3790.1830  C:\WINDOWS\system32
+71b20000 mswsock.dll  5.2.3790.1830  C:\WINDOWS\System32
+71b70000 UxTheme.dll  6.0.3790.1830  C:\WINDOWS\system32
+71bb0000 wsock32.dll  5.2.3790.0     C:\WINDOWS\system32
+71bf0000 WS2HELP.dll  5.2.3790.1830  C:\WINDOWS\system32
+71c00000 WS2_32.dll   5.2.3790.1830  C:\WINDOWS\system32
+71c40000 NETAPI32.dll 5.2.3790.1830  C:\WINDOWS\system32
+75e60000 apphelp.dll  5.2.3790.1830  C:\WINDOWS\system32
+762b0000 comdlg32.dll 6.0.3790.1830  C:\WINDOWS\system32
+76920000 USERENV.dll  5.2.3790.1830  C:\WINDOWS\system32
+76aa0000 WINMM.dll    5.2.3790.1830  C:\WINDOWS\system32
+76ed0000 DNSAPI.dll   5.2.3790.1830  C:\WINDOWS\system32
+76f10000 WLDAP32.dll  5.2.3790.1830  C:\WINDOWS\system32
+76f50000 Secur32.dll  5.2.3790.1830  C:\WINDOWS\system32
+76f70000 winrnr.dll   5.2.3790.1830  C:\WINDOWS\System32
+77380000 USER32.dll   5.2.3790.1830  C:\WINDOWS\system32
+77420000 comctl32.dll 6.0.3790.1830  C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.3790.1830_x-ww_7AE38CCF
+77530000 comctl32.dll 5.82.3790.1830 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_5.82.3790.1830_x-ww_1B6F474A
+77670000 ole32.dll    5.2.3790.1830  C:\WINDOWS\system32
+77b70000 MSACM32.dll  5.2.3790.1830  C:\WINDOWS\system32
+77b90000 version.dll  5.2.3790.1830  C:\WINDOWS\system32
+77ba0000 msvcrt.dll   7.0.3790.1830  C:\WINDOWS\system32
+77c00000 GDI32.dll    5.2.3790.1830  C:\WINDOWS\system32
+77c50000 RPCRT4.dll   5.2.3790.1830  C:\WINDOWS\system32
+77d00000 oleaut32.dll 5.2.3790.1830  C:\WINDOWS\system32
+77da0000 SHLWAPI.dll  6.0.3790.1830  C:\WINDOWS\system32
+77e40000 kernel32.dll 5.2.3790.1830  C:\WINDOWS\system32
+77f50000 ADVAPI32.dll 5.2.3790.1830  C:\WINDOWS\system32
+7c800000 ntdll.dll    5.2.3790.1830  C:\WINDOWS\system32
+7c8d0000 shell32.dll  6.0.3790.1830  C:\WINDOWS\system32
+
+processes:
+000 Idle
+004 System                       normal
+23c smss.exe                     normal C:\WINDOWS\system32
+324 csrss.exe                    normal C:\WINDOWS\system32
+35c winlogon.exe                 high   C:\WINDOWS\system32
+3a8 services.exe                 normal C:\WINDOWS\system32
+3b4 lsass.exe                    normal C:\WINDOWS\system32
+4e8 svchost.exe                  normal C:\WINDOWS\system32
+7cc svchost.exe                  normal C:\WINDOWS\system32
+0e8 Smc.exe                      normal C:\Program Files\Symantec\Symantec Endpoint Protection
+168 svchost.exe                  normal C:\WINDOWS\system32
+1bc svchost.exe                  normal C:\WINDOWS\system32
+1d8 svchost.exe                  normal C:\WINDOWS\System32
+2b4 ccSvcHst.exe                 normal C:\Program Files\Common Files\Symantec Shared
+0b8 spoolsv.exe                  normal C:\WINDOWS\system32
+0e0 msdtc.exe                    normal C:\WINDOWS\system32
+1c4 httpd.exe                    normal D:\Program Files\Zend\Apache2\bin
+274 crypserv.exe                 high   C:\WINDOWS\system32
+2f0 svchost.exe                  normal C:\WINDOWS\System32
+388 apache.exe                   normal C:\Program Files\NVIDIA Corporation\NetworkAccessManager\Apache Group\Apache2\bin
+5c0 mdm.exe                      normal C:\Program Files\Common Files\Microsoft Shared\VS7DEBUG
+650 mysqld.exe                   normal D:\Program Files\Zend\MySQL51\bin
+1a0 BackupNetworkCoordinator.exe normal C:\Program Files\Novosoft\Handy Backup
+1a8 apache.exe                   normal C:\Program Files\NVIDIA Corporation\NetworkAccessManager\Apache Group\Apache2\bin
+114 nSvcLog.exe                  normal C:\Program Files\NVIDIA Corporation\NetworkAccessManager\bin
+7a8 ntfrs.exe                    normal C:\WINDOWS\system32
+844 svchost.exe                  normal C:\WINDOWS\system32
+86c Rtvscan.exe                  normal C:\Program Files\Symantec\Symantec Endpoint Protection
+aa8 Dfssvc.exe                   normal C:\WINDOWS\system32
+b20 nSvcIp.exe                   normal C:\Program Files\NVIDIA Corporation\NetworkAccessManager\bin
+c38 svchost.exe                  normal C:\WINDOWS\System32
+80c wmiprvse.exe                 normal C:\WINDOWS\system32\wbem
+868 Explorer.EXE                 normal C:\WINDOWS
+8e4 WScript.exe                  normal C:\WINDOWS\System32
+8ec SmcGui.exe                   normal C:\Program Files\Symantec\Symantec Endpoint Protection
+c48 ccApp.exe                    normal C:\Program Files\Common Files\Symantec Shared
+c9c hbagent.exe                  normal C:\Program Files\Novosoft\Handy Backup
+de0 ApacheMonitor.exe            normal D:\Program Files\Zend\Apache2\bin
+e40 zendcontroller.exe           normal D:\Program Files\Zend\ZendServer\bin
+f30 taskmgr.exe                  high   C:\WINDOWS\system32
+6fc httpd.exe                    normal D:\Program Files\Zend\Apache2\bin
+c8c php-cgi.exe                  normal D:\Program Files\Zend\ZendServer\bin
+368 php-cgi.exe                  normal D:\Program Files\Zend\ZendServer\bin
+8b4 php-cgi.exe                  normal D:\Program Files\Zend\ZendServer\bin
+dc8 php-cgi.exe                  normal D:\Program Files\Zend\ZendServer\bin
+a64 logon.scr                    idle   C:\WINDOWS\System32
+300 cmd.exe                      normal C:\WINDOWS\system32
+77c sendmail.exe                 normal D:\sendmail
+
+hardware:
++ Computer
+  - ACPI Multiprocessor PC
++ Disk drives
+  - ST3500630AS
+  - ST380215AS
++ Display adapters
+  - Standard VGA Graphics Adapter
++ Floppy disk controllers
+  - Standard floppy disk controller
++ IDE ATA/ATAPI controllers
+  - Primary IDE Channel
+  - Primary IDE Channel
+  - Secondary IDE Channel
+  - Secondary IDE Channel
+  - Standard Dual Channel PCI IDE Controller
+  - Standard Dual Channel PCI IDE Controller
++ Keyboards
+  - Standard 101/102-Key or Microsoft Natural PS/2 Keyboard
++ Mice and other pointing devices
+  - PS/2 Compatible Mouse
++ Monitors
+  - Default Monitor
++ Network adapters
+  - NVIDIA nForce Networking Controller (driver 65.2.1.0)
++ NVIDIA Network Bus Enumerator
+  - NVIDIA Network Bus Enumerator (driver 65.2.1.0)
++ Ports (COM & LPT)
+  - Communications Port (COM1)
+  - Printer Port (LPT1)
++ Processors
+  - AMD Athlon(tm) 64 X2 Dual Core Processor 4000+
+  - AMD Athlon(tm) 64 X2 Dual Core Processor 4000+
++ Sound, video and game controllers
+  - Audio Codecs
+  - Legacy Audio Drivers
+  - Legacy Video Capture Devices
+  - Media Control Devices
+  - Video Codecs
++ System devices
+  - ACPI Fan
+  - ACPI Fixed Feature Button
+  - ACPI Power Button
+  - ACPI Sleep Button
+  - ACPI Thermal Zone
+  - AMD Address Map Configuration
+  - AMD DRAM and HyperTransport(tm) Trace Mode Configuration
+  - AMD HyperTransport(tm) Configuration
+  - AMD Miscellaneous Configuration
+  - Direct memory access controller
+  - High precision event timer
+  - ISAPNP Read Data Port
+  - Logical Disk Manager
+  - Microcode Update Device
+  - Microsoft ACPI-Compliant System
+  - Microsoft System Management BIOS Driver
+  - Microsoft UAA Bus Driver for High Definition Audio
+  - Motherboard resources
+  - Motherboard resources
+  - Motherboard resources
+  - Numeric data processor
+  - NVIDIA nForce PCI System Management (driver 4.5.7.0)
+  - PCI bus
+  - PCI standard ISA bridge
+  - PCI standard PCI-to-PCI bridge
+  - PCI standard PCI-to-PCI bridge
+  - PCI standard PCI-to-PCI bridge
+  - PCI standard PCI-to-PCI bridge
+  - PCI standard RAM Controller
+  - PCI standard RAM Controller
+  - Plug and Play Software Device Enumerator
+  - Printer Port Logical Interface
+  - Programmable interrupt controller
+  - System board
+  - System CMOS/real time clock
+  - System speaker
+  - System timer
+  - Terminal Server Device Redirector
+  - Terminal Server Keyboard Driver
+  - Terminal Server Mouse Driver
+  - Volume Manager
++ Universal Serial Bus controllers
+  - Standard Enhanced PCI to USB Host Controller
+  - Standard OpenHCD USB Host Controller
+  - USB Root Hub
+  - USB Root Hub
+
+cpu registers:
+eax = 00acf698
+ebx = 004a5f9d
+ecx = 00000069
+edx = 004a5f9d
+esi = 004a5f9d
+edi = 0013fe6c
+eip = 004a5f9d
+esp = 0013f9bc
+ebp = 0013ffc0
+
+stack dump:
+0013f9bc  9d 5f 4a 00 de fa ed 0e - 01 00 00 00 07 00 00 00  ._J.............
+0013f9cc  d0 f9 13 00 9d 5f 4a 00 - 98 f6 ac 00 9d 5f 4a 00  ....._J......_J.
+0013f9dc  9d 5f 4a 00 6c fe 13 00 - c0 ff 13 00 ec f9 13 00  ._J.l...........
+0013f9ec  00 00 00 00 f0 2f 40 00 - 00 00 00 00 40 53 ac 00  ...../@.....@S..
+0013f9fc  9d 5f 4a 00 00 00 00 00 - 93 54 4a 00 40 53 ac 00  ._J......TJ.@S..
+0013fa0c  dc fd 13 00 38 fa 13 00 - 44 fa 13 00 00 00 00 00  ....8...D.......
+0013fa1c  00 00 00 00 00 00 00 00 - b2 ee 82 7c dc fd 13 00  ...........|....
+0013fa2c  6c fe 13 00 fc fa 13 00 - e0 fa 13 00 60 fe 13 00  l...........`...
+0013fa3c  c6 ee 82 7c 6c fe 13 00 - ec fa 13 00 84 ee 82 7c  ...|l..........|
+0013fa4c  dc fd 13 00 6c fe 13 00 - fc fa 13 00 e0 fa 13 00  ....l...........
+0013fa5c  5d 5f 4a 00 00 00 00 00 - dc fd 13 00 6c fe 13 00  ]_J.........l...
+0013fa6c  cc 40 81 7c dc fd 13 00 - 6c fe 13 00 fc fa 13 00  .@.|....l.......
+0013fa7c  e0 fa 13 00 5d 5f 4a 00 - 00 00 00 00 38 c1 41 00  ....]_J.....8.A.
+0013fa8c  60 fe 13 00 00 00 00 00 - 28 c7 ad 00 0c 00 00 00  `.......(.......
+0013fa9c  c2 88 e6 77 0c 00 00 00 - b4 fa 13 00 02 00 00 00  ...w............
+0013faac  00 00 00 00 b4 fb 13 00 - 4d 00 49 00 4d 00 45 00  ........M.I.M.E.
+0013fabc  2d 00 56 00 65 00 72 00 - 73 00 69 00 6f 00 6e 00  -.V.e.r.s.i.o.n.
+0013facc  00 00 74 00 2d 00 54 00 - 6f 00 00 00 63 00 61 00  ..t.-.T.o...c.a.
+0013fadc  74 00 69 00 6f 00 6e 00 - 00 00 14 00 6f 00 00 00  t.i.o.n.....o...
+0013faec  cc fd 13 00 a4 ed 82 7c - 00 c0 13 00 fc fa 13 00  .......|........
+
+disassembling:
+[...]
+004a5f83       mov     edx, [ebp-$130]
+004a5f89       mov     eax, [$4ac550]
+004a5f8e       call    -$a04db ($405ab8)      ; System.@Write0LString
+004a5f93       call    -$a222c ($403d6c)      ; System.@WriteLn
+004a5f98       call    -$a2f71 ($40302c)      ; System.@_IOTest
+004a5f9d 862 > mov     eax, [ebx+4]
+004a5fa0       call    -$3621 ($4a2984)       ; sendmail.errorLog
+004a5fa5 864   call    -$a1306 ($404ca4)      ; System.@RaiseAgain
+004a5faa       call    -$a12b7 ($404cf8)      ; System.@DoneExcept
+004a5faf 871   xor     eax, eax
+004a5fb1       pop     edx
+[...]

@@ -1,0 +1,60 @@
+[10-Oct-2011 03:32:09] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 03:32:16] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 03:33:19] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 03:33:58] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 03:34:35] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 03:37:44] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 03:51:42] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 04:05:17] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 04:05:50] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 04:06:55] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 04:07:02] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 383
+[10-Oct-2011 04:07:25] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:21] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:24] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:26] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:27] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:30] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:30] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:32] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:33] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:34] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:37] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:41] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:08:53] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:09:03] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:09:26] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 385
+[10-Oct-2011 04:09:28] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 385
+[10-Oct-2011 04:09:34] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 385
+[10-Oct-2011 04:10:05] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:10:06] PHP Fatal error:  Can't use method return value in write context in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/welcome.php on line 384
+[10-Oct-2011 04:15:40] PHP Fatal error:  Call to undefined method MMaker::deleteMaker() in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/maker.php on line 60
+[10-Oct-2011 04:16:08] PHP Parse error:  syntax error, unexpected ')' in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/models/mcustomers.php on line 244
+[10-Oct-2011 04:16:12] PHP Parse error:  syntax error, unexpected ')' in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/models/mcustomers.php on line 244
+[10-Oct-2011 04:16:19] PHP Parse error:  syntax error, unexpected ')' in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/models/mcustomers.php on line 244
+[10-Oct-2011 04:16:31] PHP Parse error:  syntax error, unexpected ')' in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/models/mcustomers.php on line 244
+[10-Oct-2011 04:17:06] PHP Parse error:  syntax error, unexpected ')' in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/models/mcustomers.php on line 244
+[10-Oct-2011 04:17:19] PHP Parse error:  syntax error, unexpected ')' in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/models/mcustomers.php on line 244
+[10-Oct-2011 04:17:22] PHP Parse error:  syntax error, unexpected ')' in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/models/mcustomers.php on line 244
+[10-Oct-2011 05:07:01] PHP Fatal error:  Call to undefined method MProducts::makeBygroup() in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/views/admin_product_home_test.php on line 110
+[11-Oct-2011 04:28:49] PHP Fatal error:  Call to undefined method MFaq::deleteFaq() in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/faq.php on line 60
+[11-Oct-2011 20:46:41] PHP Fatal error:  Call to a member function getAllDimensions() on a non-object in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/dimensions.php on line 17
+[12-Oct-2011 00:33:56] PHP Fatal error:  Call to undefined method MMaker::deleteMaker() in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/maker.php on line 60
+[12-Oct-2011 00:46:00] PHP Fatal error:  Call to undefined method MMaker::deleteMaker() in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/maker.php on line 60
+[12-Oct-2011 02:55:15] PHP Fatal error:  Call to undefined method MCarmodel::deleteCarmodel() in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/carmodel.php on line 60
+[13-Oct-2011 01:25:35] PHP Fatal error:  Call to undefined method MDimensions::getAllProductDimensions() in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/views/admin_product_edit.php on line 65
+[13-Oct-2011 03:12:32] PHP Fatal error:  Call to undefined method MMaker::deleteMaker() in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/maker.php on line 60
+[13-Oct-2011 04:03:29] PHP Fatal error:  Call to undefined method MCarmodel::deleteCarmodel() in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/carmodel.php on line 60
+[13-Oct-2011 04:14:31] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/views/admin_carmodel_edit.php on line 42
+[13-Oct-2011 04:15:02] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/views/admin_carmodel_edit.php on line 42
+[13-Oct-2011 04:15:33] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/views/admin_carmodel_edit.php on line 42
+[13-Oct-2011 05:03:50] PHP Fatal error:  Call to undefined method MFaq::deleteFaq() in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/faq.php on line 60
+[18-Oct-2011 08:21:10] PHP Parse error:  syntax error, unexpected $end in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/views/product.php on line 90
+[18-Oct-2011 08:22:17] PHP Parse error:  syntax error, unexpected $end in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/views/product.php on line 90
+[31-Oct-2011 02:08:11] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/models/mnews.php on line 554
+[31-Oct-2011 03:00:44] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/models/mnews.php on line 554
+[31-Oct-2011 04:50:05] PHP Parse error:  syntax error, unexpected '"' in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/views/promotions.php on line 16
+[03-Nov-2011 03:13:32] PHP Parse error:  syntax error, unexpected T_STRING in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/orders.php on line 148
+[03-Nov-2011 03:13:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/orders.php on line 148
+[03-Nov-2011 03:13:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/orders.php on line 148
+[03-Nov-2011 03:14:06] PHP Parse error:  syntax error, unexpected T_STRING in /home/acntcom/public_html/demoecommerce.com/kotek/system/application/controllers/admin/orders.php on line 148
